@@ -14,8 +14,8 @@ Following the WASSA 2018 Implicit Emotion Shared Task, explicit emotion words in
 ---
 
 ##  Dataset Versions
-- **Subset Release (v1.0)** → Contains **1,000 samples** for early access and reproducibility.  
-- **Full Dataset (upcoming, v2.0)** → The complete dataset (5,266 reviews) will be released upon official publication of the paper.  
+- **Subset Release** → Contains **1,000 samples** for early access and reproducibility.  
+- **Full Dataset (upcoming)** → The complete dataset (5,266 reviews) will be released upon official publication of the paper.  
 
 ---
 
