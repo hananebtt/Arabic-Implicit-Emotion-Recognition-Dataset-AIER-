@@ -24,12 +24,12 @@ Following the WASSA 2018 Implicit Emotion Shared Task, explicit emotion words in
 - **Domain:** Reviews 
 - **Total Size:** 5,266 reviews
 - **Annotation:** Semi-automatic annotation
-- **Subset Release (v1.0):** 1,000 samples for early access  
+- **Subset Release:** 1,000 samples for early access  
 - **Format:** CSV (UTF-8 encoded)  
 
 ### Data Columns
 - `ID` → Unique identifier for each instance  
-- `text` → The full Arabic review  
+- `text` → The Arabic review  
 - `cue` → The lexical trigger word indicating emotion  
 - `emotion` → The annotated emotion class (anger, fear, joy, sadness, disgust, surprise)  
 - `cause` → The cause or stimulus of the emotion expressed  
@@ -39,7 +39,7 @@ Following the WASSA 2018 Implicit Emotion Shared Task, explicit emotion words in
 
 ##  File Structure
 ```
-subset_1000.csv    # Subset release, contains the reviews along with their corresponding annotations.
+AIER Dataset (subset).csv    # Subset release, contains the reviews along with their corresponding annotations.
 README.md          # This file, offering detailed information about the dataset's contents and usage.
 ```
 
