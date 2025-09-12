@@ -13,11 +13,6 @@ Following the WASSA 2018 Implicit Emotion Shared Task, explicit emotion words in
 
 ---
 
-##  Dataset Versions
-- **Subset Release** → Contains **1,000 samples** for early access and reproducibility.  
-- **Full Dataset (upcoming)** → The complete dataset (5,266 reviews) will be released upon official publication of the paper.  
-
----
 
 ##  Dataset Description
 - **Language:** Arabic  
@@ -33,6 +28,12 @@ Following the WASSA 2018 Implicit Emotion Shared Task, explicit emotion words in
 - `cue` → The lexical trigger word indicating emotion  
 - `emotion` → The annotated emotion class (anger, fear, joy, sadness, disgust, surprise)  
 - `cause` → The cause or stimulus of the emotion expressed  
+
+---
+
+##  Dataset Versions
+- **Subset Release** → Contains **1,000 samples** for early access and reproducibility.  
+- **Full Dataset (upcoming)** → The complete dataset (5,266 reviews) will be released upon official publication of the paper.  
 
 ---
 
