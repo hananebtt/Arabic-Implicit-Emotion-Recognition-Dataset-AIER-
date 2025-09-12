@@ -6,7 +6,7 @@
 
 The **Arabic Implicit Emotion Recognition Dataset (AIER)** is a novel resource for implicit emotion recognition in Arabic text.
 
-The dataset comprises **5,266** reviews collected from multiple Arabic sentiment resources, including the Hotel Arabic Review Dataset (HARD), the Book Reviews in Arabic Dataset (BRAD), and the Arabic Reviews Dataset by Elsahar et al. Each instance is meticulously annotated with one of six emotions—**anger, fear, joy, sadness, disgust, and surprise**—as well as semantic roles (**cue and cause**), providing a robust foundation for multiple natural language processing (NLP) tasks such as Emotion recognition, Implicit emotion detection, Semantic role labeling and Emotion cause detection ...
+The dataset comprises **5,266** reviews collected from multiple Arabic sentiment resources, including the Hotel Arabic Review Dataset (HARD), the Book Reviews in Arabic Dataset (BRAD), and the Arabic Reviews Dataset by Elsahar et al. Each instance is meticulously annotated with one of six emotions—**anger, fear, joy, sadness, disgust, and surprise**— as well as semantic roles (**cue and cause**), providing a robust foundation for multiple natural language processing (NLP) tasks such as Emotion recognition, Implicit emotion detection, Semantic role labeling and Emotion cause detection.
 
 Following the WASSA 2018 Implicit Emotion Shared Task, explicit emotion words in the reviews were **masked** with a **[MASK]** token. This process eliminates direct lexical cues of emotion, requiring models to rely on **contextual and linguistic information** for inference.
 
