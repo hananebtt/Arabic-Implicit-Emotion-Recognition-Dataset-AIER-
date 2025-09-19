@@ -75,13 +75,15 @@ If you use this dataset in your research or any other work, please cite the foll
 
 **IEEE Access paper (BibTeX):**
 ```bibtex
-@article{...,
-  author    = {...},
-  title     = {Enhancement of Implicit Emotion Recognition in Arabic Text: Annotated dataset and baseline models},
-  journal   = {IEEE Access},
-  year      = {2025},
-  doi       = {10.1109/ACCESS.xxxxxxx},
-}
+@ARTICLE{11168475,
+  author={Boutouta, Hanane and Lakhfif, Abdelaziz and Senator, Ferial and Mediani, Chahrazed},
+  journal={IEEE Access}, 
+  title={Enhancement of Implicit Emotion Recognition in Arabic Text: Annotated dataset and baseline models}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2025.3611337}}
 ```
 
 ---
